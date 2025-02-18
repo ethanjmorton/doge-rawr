@@ -13,7 +13,7 @@ const bareServer = createBareServer('/bear/');
 
 const version = packageJson.version;
 
-const discord = 'https://discord.gg/unblocking';
+const discord = 'https://discord.gg/mrking's corner';
 
 app.use(express.json());
 app.use(
