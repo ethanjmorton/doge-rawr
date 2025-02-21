@@ -1,5 +1,5 @@
-# Doge Unblocker V4
-Doge Unblocker is a lightning-fast web proxy designed for performance and stealth. We are **by far** the best proxy, offering speeds and features unbeatable by any other proxies.
+# Doge V4
+Doge is a lightning-fast web proxy designed for performance and stealth. We are **by far** the best proxy, offering speeds and features unbeatable by any other proxies.
 ## Key Features:
 - Advanced Tab Cloaking
 - Advanced About:Blank Cloaking
@@ -25,6 +25,4 @@ Doge Unblocker is a lightning-fast web proxy designed for performance and stealt
 <img src="https://camo.githubusercontent.com/607221ca4be547dd929fca7c997a93dfaf1f7b06a1baacaf25b44cf5405c9f91/68747470733a2f2f62696e6261736862616e616e612e6769746875622e696f2f6465706c6f792d627574746f6e732f627574746f6e732f72656d6164652f6379636c69632e737667"></img></a>
 [![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repositoryurl=https://github.com/dogenetwork/v4)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/dogenetwork/v4)
-
-### Discord
-[![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/sWPHCdxCPU)
+DISCLAIMER: I am not legally responsible for any misuse of this app. This is for educational purposes ONLY. Do not use this to bypass any restrictions on your Chromebook ;)
